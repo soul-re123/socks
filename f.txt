@@ -1,0 +1,6 @@
+hello
+world
+123
+goodbye!
+Python3
+code

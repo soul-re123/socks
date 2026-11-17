@@ -1,0 +1,4 @@
+Dog|Sadie|10
+Cat|Fluffy|3
+Bird|Tweety|10
+Hampster|Sam|2
